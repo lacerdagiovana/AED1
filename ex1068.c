@@ -1,4 +1,4 @@
-//1068 - Balanço de Parênteses I
+//1068 - Balanço de Parênteses I - pilha com lista encadeada
 
 #include <string.h>
 #include <stdlib.h>
